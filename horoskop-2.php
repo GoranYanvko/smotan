@@ -1,7 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+п»ї<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Зодии дани за всяка една от тях</title>
+	<title>Р—РѕРґРёРё РґР°РЅРё Р·Р° РІСЃСЏРєР° РµРґРЅР° РѕС‚ С‚СЏС…</title>
             <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
             <meta http-equiv="Content-Language" content="bg" />
             <meta name="Resource-Type" content="Document" /> 
@@ -9,8 +9,8 @@
             <meta name="distribution" content="global" />
             <meta name="robots" content="all" />
             <meta name="rating" content="general" />
-            <meta name="keywords" content="зоди, дани, любопитно, овен , телец, рак, скорпион, телец, дева, ., zodi, zodii, dani, liubopitni " />
-            <meta name="description" content="Дани за всяка една от зодите - щастливи числа, камани, ден от седмицата и още много... " />
+            <meta name="keywords" content="Р·РѕРґРё, РґР°РЅРё, Р»СЋР±РѕРїРёС‚РЅРѕ, РѕРІРµРЅ , С‚РµР»РµС†, СЂР°Рє, СЃРєРѕСЂРїРёРѕРЅ, С‚РµР»РµС†, РґРµРІР°, ., zodi, zodii, dani, liubopitni " />
+            <meta name="description" content="Р”Р°РЅРё Р·Р° РІСЃСЏРєР° РµРґРЅР° РѕС‚ Р·РѕРґРёС‚Рµ - С‰Р°СЃС‚Р»РёРІРё С‡РёСЃР»Р°, РєР°РјР°РЅРё, РґРµРЅ РѕС‚ СЃРµРґРјРёС†Р°С‚Р° Рё РѕС‰Рµ РјРЅРѕРіРѕ... " />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 
 </head>
@@ -18,7 +18,7 @@
 <div id="center">
 	<div id="header">
 	<h1>Testovebg.com</h1>
-	<h2>... Истината за живота</h2>
+	<h2>... РСЃС‚РёРЅР°С‚Р° Р·Р° Р¶РёРІРѕС‚Р°</h2>
 		<a href="http://testovebg.com"><img id="logo" src="images/logo.jpg" alt="logo test" border="0" /></a>
 		<div id="navtop">
 <?
@@ -57,16 +57,16 @@ echo "$fo";
 			
 		</div>
 		<div id="members">
-			<span>Вход</span>
+			<span>Р’С…РѕРґ</span>
 			<form action="login.php" method="post" enctype="application/x-www-form-urlencoded" name="login">
 			<span class="info">E-mail</span>
 			<input class="intext" name="email" type="text" />
-			<span class="info">Парола</span>
+			<span class="info">РџР°СЂРѕР»Р°</span>
 			<input class="intext" name="password" type="password" />
-			<input id="submit" name="login" type="submit" value="Вход" />
+			<input id="submit" name="login" type="submit" value="Р’С…РѕРґ" />
 			</form>
-			<a href="login.php">Регестрирай се!</a>
-			<a href="login.php">Забравена парола</a>
+			<a href="login.php">Р РµРіРµСЃС‚СЂРёСЂР°Р№ СЃРµ!</a>
+			<a href="login.php">Р—Р°Р±СЂР°РІРµРЅР° РїР°СЂРѕР»Р°</a>
 
 		</div>
 	</div>
@@ -89,7 +89,7 @@ echo "$fo";
 	</div>
 	
 	<div id="middle">
-		<h5>Дани за всяка зодия </h5>
+		<h5>Р”Р°РЅРё Р·Р° РІСЃСЏРєР° Р·РѕРґРёСЏ </h5>
 <a href="oven.php">
 <img src="http://testovebg.com/zodiq/oven.gif" alt="oven" width="71" border="0" /></a>
 
@@ -147,7 +147,7 @@ echo "$fo";
 
 ?>
 
-<h3>Смешни зодии</h3>
+<h3>РЎРјРµС€РЅРё Р·РѕРґРёРё</h3>
 <a href="fun-oven.php">
 <img src="http://testovebg.com/zodiq/oven1.jpg" alt="oven" width="70" border="0" /></a>
 

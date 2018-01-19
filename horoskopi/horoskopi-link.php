@@ -1,15 +1,15 @@
-| <a href="horoskop-oven1.php">Овен</a> | 
-<a href="http://testovebg.com/horoskop-telec1.php">Телец</a> |
-<a href="http://testovebg.com/horoskop-bliznaci1.php">Близнаци</a> |
-<a href="http://testovebg.com/horoskop-rak1.php">Рак</a> |
-<a href="http://testovebg.com/horoskop-lyv1.php">Лъв</a> |
-<a href="http://testovebg.com/horoskop-deva1.php">Дева</a> |
-<a href="http://testovebg.com/horoskop-vezni1.php">Везни</a> |
-<a href="http://testovebg.com/horoskop-skorpion1.php">Скорпион</a> |<br />
-|<a href="http://testovebg.com/horoskop-strelec1.php">Стрелец</a> |   
-<a href="http://testovebg.com/horoskop-kozirog1.php">Козирог</a> |
-<a href="http://testovebg.com/horoskop-vodolei1.php">Водолей</a> |
-<a href="http://www.testovebg.com/horoskop-ribi1.php">Риби</a> |
+п»ї| <a href="horoskop-oven1.php">РћРІРµРЅ</a> | 
+<a href="http://testovebg.com/horoskop-telec1.php">РўРµР»РµС†</a> |
+<a href="http://testovebg.com/horoskop-bliznaci1.php">Р‘Р»РёР·РЅР°С†Рё</a> |
+<a href="http://testovebg.com/horoskop-rak1.php">Р Р°Рє</a> |
+<a href="http://testovebg.com/horoskop-lyv1.php">Р›СЉРІ</a> |
+<a href="http://testovebg.com/horoskop-deva1.php">Р”РµРІР°</a> |
+<a href="http://testovebg.com/horoskop-vezni1.php">Р’РµР·РЅРё</a> |
+<a href="http://testovebg.com/horoskop-skorpion1.php">РЎРєРѕСЂРїРёРѕРЅ</a> |<br />
+|<a href="http://testovebg.com/horoskop-strelec1.php">РЎС‚СЂРµР»РµС†</a> |   
+<a href="http://testovebg.com/horoskop-kozirog1.php">РљРѕР·РёСЂРѕРі</a> |
+<a href="http://testovebg.com/horoskop-vodolei1.php">Р’РѕРґРѕР»РµР№</a> |
+<a href="http://www.testovebg.com/horoskop-ribi1.php">Р РёР±Рё</a> |
 <br /><br />
 <script type="text/javascript"><!--
 google_ad_client = "pub-7020182453056205";

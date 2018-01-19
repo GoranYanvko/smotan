@@ -1,7 +1,7 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+п»ї<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-	<title>Хороскоп</title>
+	<title>РҐРѕСЂРѕСЃРєРѕРї</title>
             <meta http-equiv="Content-Type" content="text/html; charset=windows-1251" />
             <meta http-equiv="Content-Language" content="bg" />
             <meta name="Resource-Type" content="Document" /> 
@@ -9,7 +9,7 @@
             <meta name="distribution" content="global" />
             <meta name="robots" content="all" />
             <meta name="rating" content="general" />
-            <meta name="keywords" content="смешни, хороскоп, овен, зодия, зодии, дани, данни, хороскоп, horoskop, lyv, luv, dani , zodiq , zodii " />
+            <meta name="keywords" content="СЃРјРµС€РЅРё, С…РѕСЂРѕСЃРєРѕРї, РѕРІРµРЅ, Р·РѕРґРёСЏ, Р·РѕРґРёРё, РґР°РЅРё, РґР°РЅРЅРё, С…РѕСЂРѕСЃРєРѕРї, horoskop, lyv, luv, dani , zodiq , zodii " />
             <meta name="description" content=" " />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 
@@ -18,8 +18,8 @@
 <div id="center">
 	<div id="header">
 	<h1>Testovebg.com</h1>
-	<h2>... Истината за живота</h2>
-		<a href="http://testovebg.com"><img id="logo" src="images/logo.jpg" alt="хороскоп" border="0" /></a>
+	<h2>... РСЃС‚РёРЅР°С‚Р° Р·Р° Р¶РёРІРѕС‚Р°</h2>
+		<a href="http://testovebg.com"><img id="logo" src="images/logo.jpg" alt="С…РѕСЂРѕСЃРєРѕРї" border="0" /></a>
 		<div id="navtop">
 <?
 
@@ -35,7 +35,7 @@ echo "$fo";
 
 ?>
 		</div>
-		<img id="headerimage" src="images/headerimage.jpg" alt="хороскоп" />
+		<img id="headerimage" src="images/headerimage.jpg" alt="С…РѕСЂРѕСЃРєРѕРї" />
 	</div>
 	<div id="content">
 	<div id="leftside">
@@ -98,8 +98,8 @@ include('horoskopi/horoskopi-link2.php');
 
 ?>
 
-		<h5>Хороскоп за <? $az = date("d.m.y"); echo "$az" ?></h5><br />
-Дневен хороскоп <? $az = date("d.m.y"); echo "$az" ?>. Изберете вашата зодия и ще Ви излезе дневния  хороскоп. Ежедневното проверяване на хороскопа ще ви помогне да се справите с трудните моменти, ще знаете какво ви предстой и как да се справите с възникналите проблеми. Установено е, че хората, които проверяват своя хороскоп са по-щастливи от всички останали защото са подготвени за лошото. Бъдете и ви щастливи!
+		<h5>РҐРѕСЂРѕСЃРєРѕРї Р·Р° <? $az = date("d.m.y"); echo "$az" ?></h5><br />
+Р”РЅРµРІРµРЅ С…РѕСЂРѕСЃРєРѕРї <? $az = date("d.m.y"); echo "$az" ?>. РР·Р±РµСЂРµС‚Рµ РІР°С€Р°С‚Р° Р·РѕРґРёСЏ Рё С‰Рµ Р’Рё РёР·Р»РµР·Рµ РґРЅРµРІРЅРёСЏ  С…РѕСЂРѕСЃРєРѕРї. Р•Р¶РµРґРЅРµРІРЅРѕС‚Рѕ РїСЂРѕРІРµСЂСЏРІР°РЅРµ РЅР° С…РѕСЂРѕСЃРєРѕРїР° С‰Рµ РІРё РїРѕРјРѕРіРЅРµ РґР° СЃРµ СЃРїСЂР°РІРёС‚Рµ СЃ С‚СЂСѓРґРЅРёС‚Рµ РјРѕРјРµРЅС‚Рё, С‰Рµ Р·РЅР°РµС‚Рµ РєР°РєРІРѕ РІРё РїСЂРµРґСЃС‚РѕР№ Рё РєР°Рє РґР° СЃРµ СЃРїСЂР°РІРёС‚Рµ СЃ РІСЉР·РЅРёРєРЅР°Р»РёС‚Рµ РїСЂРѕР±Р»РµРјРё. РЈСЃС‚Р°РЅРѕРІРµРЅРѕ Рµ, С‡Рµ С…РѕСЂР°С‚Р°, РєРѕРёС‚Рѕ РїСЂРѕРІРµСЂСЏРІР°С‚ СЃРІРѕСЏ С…РѕСЂРѕСЃРєРѕРї СЃР° РїРѕ-С‰Р°СЃС‚Р»РёРІРё РѕС‚ РІСЃРёС‡РєРё РѕСЃС‚Р°РЅР°Р»Рё Р·Р°С‰РѕС‚Рѕ СЃР° РїРѕРґРіРѕС‚РІРµРЅРё Р·Р° Р»РѕС€РѕС‚Рѕ. Р‘СЉРґРµС‚Рµ Рё РІРё С‰Р°СЃС‚Р»РёРІРё!
 
 
 <br />
