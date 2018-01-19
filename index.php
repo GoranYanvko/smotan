@@ -1,24 +1,24 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+п»ї<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head><meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
-	<title>Тестове za, Ежедневен хороскоп , Развлечение и забавление </title>
+	<title>РўРµСЃС‚РѕРІРµ, Р•Р¶РµРґРЅРµРІРµРЅ С…РѕСЂРѕСЃРєРѕРї , Р Р°Р·РІР»РµС‡РµРЅРёРµ Рё Р·Р°Р±Р°РІР»РµРЅРёРµ </title>
             
             <meta http-equiv="Content-Language" content="bg" />
             <meta name="Resource-Type" content="Document" /> 
             <meta name="distribution" content="global" />
             <meta name="robots" content="all" />
             <meta name="rating" content="general" />
-            <meta name="keywords" content="test , testove , TEST , тест тестове , любов , love , teen , хороскоп нумерлогия тестове развлечение игри зодии , съновник " />
-            <meta name="description" content="TEST - Тестове на различни теми , ежедневен хороскоп и нумерология , гадание , развлечение, игри и още ... " />
+            <meta name="keywords" content="test , testove , TEST , С‚РµСЃС‚ С‚РµСЃС‚РѕРІРµ , Р»СЋР±РѕРІ , love , teen , С…РѕСЂРѕСЃРєРѕРї РЅСѓРјРµСЂР»РѕРіРёСЏ С‚РµСЃС‚РѕРІРµ СЂР°Р·РІР»РµС‡РµРЅРёРµ РёРіСЂРё Р·РѕРґРёРё , СЃСЉРЅРѕРІРЅРёРє " />
+            <meta name="description" content="TEST - РўРµСЃС‚РѕРІРµ РЅР° СЂР°Р·Р»РёС‡РЅРё С‚РµРјРё , РµР¶РµРґРЅРµРІРµРЅ С…РѕСЂРѕСЃРєРѕРї Рё РЅСѓРјРµСЂРѕР»РѕРіРёСЏ , РіР°РґР°РЅРёРµ , СЂР°Р·РІР»РµС‡РµРЅРёРµ, РёРіСЂРё Рё РѕС‰Рµ ... " />
 	<link href="style.css" rel="stylesheet" type="text/css" />
 
 </head>
 <body>
 <div id="center">
 	<div id="header">
-	<h1>Хороскоп</h1>
-	<h2>... за всеки ден за всяка зодия</h2>
-		<a href="http://testovebg.com"><img id="logo" src="images/logo.jpg" alt="хороскоп" border="0" /></a>
+	<h1>РҐРѕСЂРѕСЃРєРѕРї</h1>
+	<h2>... Р·Р° РІСЃРµРєРё РґРµРЅ Р·Р° РІСЃСЏРєР° Р·РѕРґРёСЏ</h2>
+		<a href="http://testovebg.com"><img id="logo" src="images/logo.jpg" alt="С…РѕСЂРѕСЃРєРѕРї" border="0" /></a>
 		<div id="navtop">
 <?
 
@@ -57,16 +57,16 @@ echo "$fo";
 			
 		</div>
 		<div id="members">
-			<span>Вход</span>
+			<span>Р’С…РѕРґ</span>
 			<form action="login.php" method="post" enctype="application/x-www-form-urlencoded" name="login">
 			<span class="info">E-mail</span>
 			<input class="intext" name="email" type="text" />
-			<span class="info">Парола</span>
+			<span class="info">РџР°СЂРѕР»Р°</span>
 			<input class="intext" name="password" type="password" />
-			<input id="submit" name="login" type="submit" value="Вход" />
+			<input id="submit" name="login" type="submit" value="Р’С…РѕРґ" />
 			</form>
-			<a href="login.php">Регестрирай се!</a>
-			<a href="login.php">Забравена парола</a>
+			<a href="login.php">Р РµРіРµСЃС‚СЂРёСЂР°Р№ СЃРµ!</a>
+			<a href="login.php">Р—Р°Р±СЂР°РІРµРЅР° РїР°СЂРѕР»Р°</a>
 
 		</div>
 	</div>
@@ -89,31 +89,31 @@ echo "$fo";
 	</div>
 	
 	<div id="middle">
-			<h5>Хороскоп за 27.11.10</h5>
+			<h5>РҐРѕСЂРѕСЃРєРѕРї Р·Р° 27.11.10</h5>
 <a href="http://www.testovebg.com/horoskop-oven1.php">
-<img src="http://testove-kartinki.hit.bg/oven.gif" alt="овен" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/oven.gif" alt="РѕРІРµРЅ" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-telec1.php">
-<img src="http://testove-kartinki.hit.bg/telez.gif" alt="телец" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/telez.gif" alt="С‚РµР»РµС†" width="110" border="0" />
 </a>
 
 <a href="http://www.testovebg.com/horoskop-bliznaci1.php">
 
-<img src="http://testove-kartinki.hit.bg/bliznaci.gif" alt="Близнаци" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/bliznaci.gif" alt="Р‘Р»РёР·РЅР°С†Рё" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-rak1.php">
 
-<img src="http://testove-kartinki.hit.bg/rak.gif" alt="рак" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/rak.gif" alt="СЂР°Рє" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-lyv1.php">
 
-<img src="http://testove-kartinki.hit.bg/lyv.gif" alt="лъв" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/lyv.gif" alt="Р»СЉРІ" width="110" border="0" />
 
 </a>
 
@@ -130,30 +130,30 @@ echo "$fo";
 </a>
 
 <a href="http://www.testovebg.com/horoskop-skorpion1.php">
-<img src="http://testove-kartinki.hit.bg/skorpion.gif" alt="скорпион" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/skorpion.gif" alt="СЃРєРѕСЂРїРёРѕРЅ" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-strelec1.php">
 
-<img src="http://testove-kartinki.hit.bg/strelez.gif" alt="стрелец" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/strelez.gif" alt="СЃС‚СЂРµР»РµС†" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-kozirog1.php">
-<img src="http://testove-kartinki.hit.bg/kozirog.gif" alt="козирог" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/kozirog.gif" alt="РєРѕР·РёСЂРѕРі" width="110" border="0" />
 
 </a>
 
 <a href="http://www.testovebg.com/horoskop-vodolei1.php">
 
-<img src="http://testove-kartinki.hit.bg/vodolei.gif" alt="водолей" width="110" border="0" />
+<img src="http://testove-kartinki.hit.bg/vodolei.gif" alt="РІРѕРґРѕР»РµР№" width="110" border="0" />
 
 </a>
 
 <a  href="http://www.testovebg.com/horoskop-ribi1.php">
 
-<img alt="ribi" src="http://testove-kartinki.hit.bg/ribi.gif" alt="риби" width="110" border="0" />
+<img alt="ribi" src="http://testove-kartinki.hit.bg/ribi.gif" alt="СЂРёР±Рё" width="110" border="0" />
 
 </a>
 
@@ -175,7 +175,7 @@ echo "$fo";
 
 ?>
 
-<h3>Смешни зодии</h3>
+<h3>РЎРјРµС€РЅРё Р·РѕРґРёРё</h3>
 <a href="fun-oven.php">
 <img src="http://testovebg.com/zodiq/oven1.jpg" alt="oven" width="70" border="0" /></a>
 
