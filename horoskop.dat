@@ -1,0 +1,66 @@
+<a href="http://testovebg/horoskop-oven.php">
+<img src="http://testove-kartinki.hit.bg/oven.gif" alt="овен" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-telec.php">
+<img src="http://testove-kartinki.hit.bg/telez.gif" alt="телец" width="110" border="0" />
+</a>
+
+<a href="http://testovebg/horoskop-bliznaci.php">
+
+<img src="http://testove-kartinki.hit.bg/bliznaci.gif" alt="Близнаци" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-rak.php">
+
+<img src="http://testove-kartinki.hit.bg/rak.gif" alt="рак" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg.com/horoskop-lyv.php">
+
+<img src="http://testove-kartinki.hit.bg/lyv.gif" alt="лъв" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-deva.php">
+
+<img src="http://testove-kartinki.hit.bg/deva.gif" alt="deva" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-vezni.php">
+
+<img src="http://testove-kartinki.hit.bg/wezni.gif" alt="aacie" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-skorpion.php">
+<img src="http://testove-kartinki.hit.bg/skorpion.gif" alt="скорпион" width="110" border="0" />
+
+</a>
+
+<a onclick="NewWindow(this.href,'name','500','400','yes');return false" href="horoskop-strelec.php">
+
+<img src="http://testove-kartinki.hit.bg/strelez.gif" alt="стрелец" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-kozirog.php">
+<img src="http://testove-kartinki.hit.bg/kozirog.gif" alt="козирог" width="110" border="0" />
+
+</a>
+
+<a href="http://testovebg/horoskop-vodolei.php">
+
+<img src="http://testove-kartinki.hit.bg/vodolei.gif" alt="водолей" width="110" border="0" />
+
+</a>
+
+<a  href="http://testovebg/horoskop-ribi.php">
+
+<img alt="ribi" src="http://testove-kartinki.hit.bg/ribi.gif" alt="риби" width="110" border="0" />
+
+</a>
